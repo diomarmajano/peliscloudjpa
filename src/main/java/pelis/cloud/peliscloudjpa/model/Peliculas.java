@@ -16,11 +16,11 @@ public class Peliculas {
     @Column(name="id")
     private Long id;
 
-    @Column(name="año")
-    private int año;
-
     @Column(name="titulo")
     private String titulo;
+
+    @Column(name="año")
+    private int año;
 
     @Column(name="director")
     private String director;
