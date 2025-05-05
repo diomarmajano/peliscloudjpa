@@ -1,0 +1,7 @@
+pelis\cloud\peliscloudjpa\model\Peliculas.class
+pelis\cloud\peliscloudjpa\controller\PeliculasController.class
+pelis\cloud\peliscloudjpa\PeliscloudjpaApplication.class
+pelis\cloud\peliscloudjpa\service\PeliculasService.class
+pelis\cloud\peliscloudjpa\service\PeliculasServiceImpl.class
+pelis\cloud\peliscloudjpa\controller\PeliculasNotFoundException.class
+pelis\cloud\peliscloudjpa\repository\PeliculasRepository.class

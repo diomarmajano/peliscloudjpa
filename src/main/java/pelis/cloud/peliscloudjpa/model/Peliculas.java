@@ -6,11 +6,12 @@ import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.Table;
+import org.springframework.hateoas.RepresentationModel;
 
 //Creacion de la tabla peliculas en la base de datos
 @Entity
 @Table(name = "peliculas")
-public class Peliculas {
+public class Peliculas extends RepresentationModel<Peliculas> {
     @Id
     @GeneratedValue(strategy=GenerationType.IDENTITY)
     @Column(name="id")

@@ -1,0 +1,4 @@
+pelis\cloud\peliscloudjpa\controller\PeliculasControllerTest.class
+pelis\cloud\peliscloudjpa\service\PeliculasServiceTest.class
+pelis\cloud\peliscloudjpa\PeliscloudjpaApplicationTests.class
+pelis\cloud\peliscloudjpa\repository\PeliculasRepositoryTest.class
